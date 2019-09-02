@@ -36,7 +36,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2016 ICPR\] Deep learning for integrated hand detection and pose estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/7899702/)
 *Tzu-Yang Chen, Min-Yu Wu, Yu-Hsun Hsieh, Li-Chen Fu*
 
-##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
+##### [x] \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
 *Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
 
 ##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
@@ -97,7 +97,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015 CHI\] Accurate, Robust, and Flexible Real-time Hand Tracking. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf) [\[Project\]](https://www.microsoft.com/en-us/research/publication/accurate-robust-and-flexible-real-time-hand-tracking/)
 *Toby Sharp, Cem Keskin, Duncan Robertson, Jonathan Taylor, Jamie Shotton, David Kim, Christoph Rhemann, Ido Leichter, Alon Vinnikov, Yichen Wei, Daniel Freedman, Pushmeet Kohli, Eyal Krupka, Andrew Fitzgibbon, Shahram Izadi*
 
-##### \[2015 CVWW\] Hands Deep in Deep Learning for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvww15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/deep-prior)
+##### [x] \[2015 CVWW\] Hands Deep in Deep Learning for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvww15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/deep-prior)
 *Markus Oberweger, Paul Wohlhart, Vincent Lepetit*
 
 ##### \[2015 FG\] Combining Discriminative and Model Based Approaches for Hand Pose Estimation. [\[PDF\]](http://www.krejov.com/uploads/2/4/0/5/24053627/final_fg2015.pdf) [\[Project\]](http://www.krejov.com/hand-pose-estimation.html)
