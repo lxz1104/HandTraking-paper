@@ -11,10 +11,10 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 [\[back to top\]](#contents)
 
 ### 2016 CVPR
-##### Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ge_Robust_3D_Hand_CVPR_2016_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2016) [\[Code\]](https://github.com/geliuhao/CVPR2016_HandPoseEstimation)
+##### [已读] Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ge_Robust_3D_Hand_CVPR_2016_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2016) [\[Code\]](https://github.com/geliuhao/CVPR2016_HandPoseEstimation)
 *Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann*
 
-##### DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.pdf)[\[Project\]](https://engineering.purdue.edu/cdesign/wp/deephand-robust-hand-pose-estimation/)
+##### [已读] DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.pdf)[\[Project\]](https://engineering.purdue.edu/cdesign/wp/deephand-robust-hand-pose-estimation/)
 _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvpr16.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
