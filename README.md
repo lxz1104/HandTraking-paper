@@ -8,7 +8,6 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf) [\[Project\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/)
 *Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt*
 
-[\[back to top\]](#contents)
 
 ### 2016 CVPR
 ##### [已读] Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ge_Robust_3D_Hand_CVPR_2016_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2016) [\[Code\]](https://github.com/geliuhao/CVPR2016_HandPoseEstimation)
@@ -17,13 +16,12 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### [已读] DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.pdf)[\[Project\]](https://engineering.purdue.edu/cdesign/wp/deephand-robust-hand-pose-estimation/)
 _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
-##### Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvpr16.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
+##### [无关] Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvpr16.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
 *Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit*
 
-##### Fits Like a Glove: Rapid and Reliable Hand Shape Personalization.  [\[PDF\]](http://www.samehkhamis.com/tan-cvpr2016.pdf) [\[Project\]](http://campar.in.tum.de/Main/DavidTan)
+##### [无关] Fits Like a Glove: Rapid and Reliable Hand Shape Personalization.  [\[PDF\]](http://www.samehkhamis.com/tan-cvpr2016.pdf) [\[Project\]](http://campar.in.tum.de/Main/DavidTan)
 *David Joseph Tan, Thomas Cashman, Jonathan Taylor, Andrew Fitzgibbon, Daniel Tarlow, Sameh Khamis, Shahram Izadi, Jamie Shotton*
 
-[\[back to top\]](#contents)
 
 ### 2016 Others
 
@@ -48,7 +46,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2016 SIGGRAPH Asia\] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2016/HModel/index.php) [\[Code\]](https://github.com/OpenGP/hmodel)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
 
-[\[back to top\]](#contents)
 
 ### 2015 ICCV
 ##### [已读] Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
@@ -72,8 +69,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Understanding Everyday Hands in Action from RGB-D Images. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Rogez_Understanding_Everyday_Hands_ICCV_2015_paper.pdf)
 *Gregory Rogez, James Supancic III, Deva Ramanan*
 
-[\[back to top\]](#contents)
-
 ### 2015 CVPR
 ##### Cascaded Hand Pose Regression.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
 *Xiao Sun, Yichen Wei, Shuang Liang, Xiaoou Tang, and Jian Sun*
@@ -84,7 +79,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Learning an Efficient Model of Hand Shape Variation from Depth Images. [\[PDF\]](http://www.samehkhamis.com/khamis-cvpr2015.pdf)
 *Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon*
 
-[\[back to top\]](#contents)
 
 ### 2015 Others
 
@@ -106,7 +100,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015 SGP\] Robust Articulated-ICP for Real-Time Hand Tracking. [\[PDF\]](http://gfx.uvic.ca/pubs/2015/htrack//paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2015/Htrack_ICP/index.php) [\[Code\]](https://github.com/OpenGP/htrack)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
 
-[\[back to top\]](#contents)
 
 
 ## arXiv Papers
@@ -141,6 +134,5 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
-[\[back to top\]](#contents)
 
 
