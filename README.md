@@ -51,7 +51,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ### 2015 ICCV
-##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
+##### [已读] Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
 *Markus Oberweger, Paul Wohlhart, Vincent Lepetit*
 
 ##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2015.pdf)
