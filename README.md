@@ -51,32 +51,32 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [已读] Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
 *Markus Oberweger, Paul Wohlhart, Vincent Lepetit*
 
-##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2015.pdf)
+##### [不懂] Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2015.pdf)
 *Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton*
 
-##### Depth-based hand pose estimation: data, methods, and challenges. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Supancic_Depth-Based_Hand_Pose_ICCV_2015_paper.pdf) [\[Project\]](http://arrummzen.net/#HandData) [\[Code\]](https://github.com/jsupancic/deep_hand_pose)
+##### [不懂] Depth-based hand pose estimation: data, methods, and challenges. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Supancic_Depth-Based_Hand_Pose_ICCV_2015_paper.pdf) [\[Project\]](http://arrummzen.net/#HandData) [\[Code\]](https://github.com/jsupancic/deep_hand_pose)
 *James Supancic III, Deva Ramanan, Gregory Rogez, Yi Yang, Jamie Shotton*
 
-##### 3D Hand Pose Estimation Using Randomized Decision Forest with Segmentation Index Points. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_3D_Hand_Pose_ICCV_2015_paper.pdf)
+##### [已读] 3D Hand Pose Estimation Using Randomized Decision Forest with Segmentation Index Points. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_3D_Hand_Pose_ICCV_2015_paper.pdf)
 *Peiyi Li, Haibin Ling*
 
-##### A collaborative filtering approach to real-time hand pose estimation. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2015/08/iccv_2015_hand_pose_estimation.pdf) [\[Project\]](https://engineering.purdue.edu/cdesign/wp/a-collaborative-filtering-approach-to-real-time-hand-pose-estimation/)
+##### [已读] A collaborative filtering approach to real-time hand pose estimation. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2015/08/iccv_2015_hand_pose_estimation.pdf) [\[Project\]](https://engineering.purdue.edu/cdesign/wp/a-collaborative-filtering-approach-to-real-time-hand-pose-estimation/)
 *Chiho Choi, Ayan Sinha, Joon Hee Choi, Sujin Jang, Karthik Ramani*
 
-##### Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions. [\[PDF\]](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf)
+##### [无关] Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions. [\[PDF\]](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf)
 *Sven Bambach, Stefan Lee, David Crandall, Chen Yu*
 
 ##### Understanding Everyday Hands in Action from RGB-D Images. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Rogez_Understanding_Everyday_Hands_ICCV_2015_paper.pdf)
 *Gregory Rogez, James Supancic III, Deva Ramanan*
 
 ### 2015 CVPR
-##### Cascaded Hand Pose Regression.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
+##### [已读] Cascaded Hand Pose Regression.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
 *Xiao Sun, Yichen Wei, Shuang Liang, Xiaoou Tang, and Jian Sun*
 
-##### Fast and Robust Hand Tracking Using Detection-Guided Optimization. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/content/FastHandTracker_CVPR2015.pdf) [\[Project\]](http://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/)
+##### [已读] Fast and Robust Hand Tracking Using Detection-Guided Optimization. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/content/FastHandTracker_CVPR2015.pdf) [\[Project\]](http://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/)
 *Srinath Sridhar, Franziska Mueller, Antti Oulasvirta, Christian Theobalt*
 
-##### Learning an Efficient Model of Hand Shape Variation from Depth Images. [\[PDF\]](http://www.samehkhamis.com/khamis-cvpr2015.pdf)
+##### [无关] Learning an Efficient Model of Hand Shape Variation from Depth Images. [\[PDF\]](http://www.samehkhamis.com/khamis-cvpr2015.pdf)
 *Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon*
 
 
